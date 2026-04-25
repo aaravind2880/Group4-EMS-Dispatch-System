@@ -1,5 +1,5 @@
 
-  # AI Triage Home Screen Design
+  # AI Triage Design Prototype
 
   ## Running the code
 
